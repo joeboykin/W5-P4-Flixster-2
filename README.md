@@ -30,7 +30,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= https://github.com/joeboykin/W5-Flixster2/blob/75b0635ddd7700b6700465db605696f21da30f90/Flixster2.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with ...  [Kap](https://getkap.co/) for MacOS
 
