@@ -19,9 +19,9 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-- [x] **Add another API call and RecyclerView that lets the user interact with different data.** 
-- [x] **Add rounded corners to the images using the Glide transformations**
-- [x] **Implement a shared element transition when user clicks into the details of a movie**
+- [] **Add another API call and RecyclerView that lets the user interact with different data.** 
+- [] **Add rounded corners to the images using the Glide transformations**
+- [] **Implement a shared element transition when user clicks into the details of a movie**
 
 The following **additional** features are implemented:
 
@@ -34,10 +34,11 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with ...  [Kap](https://getkap.co/) for MacOS
 
-
 ## Notes
 
-Describe any challenges encountered while building the app.
+The file can be downloaded via google drive since it's larger than 25MB.
+
+https://drive.google.com/file/d/1BOcDQ23v01h5cbfp1lStVXdouwSJD-Xm/view?usp=share_link
 
 ## License
 
