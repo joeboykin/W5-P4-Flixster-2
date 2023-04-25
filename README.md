@@ -25,18 +25,18 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 
-- [x] None at this time!
+- [x] N/A
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-<img src= https://github.com/joeboykin/W5-Flixster2/blob/75b0635ddd7700b6700465db605696f21da30f90/Flixster2.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src= https://github.com/joeboykin/W5-Flixster2/blob/75b0635ddd7700b6700465db605696f21da30f90/Flixster2.gif title='Flixster 2 Video Walkthrough' width='' alt='Flixster 2 Video Walkthrough' />
 
-GIF created with ...  [Kap](https://getkap.co/) for MacOS
+GIF created with [Kap](https://getkap.co/) for MacOS
 
 ## Notes
 
-The file can be downloaded via google drive since it's larger than 25MB.
+If you cannot download file please use google drive link.
 
 https://drive.google.com/file/d/1BOcDQ23v01h5cbfp1lStVXdouwSJD-Xm/view?usp=share_link
 
